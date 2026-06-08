@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stlrvstoragemo.github.io/st-louis-rv-storage-b6558/sitemap.xml
+Sitemap: https://st-louis-rv-storage-b6558.pages.dev/sitemap.xml
